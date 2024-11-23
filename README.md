@@ -1,4 +1,4 @@
-# bt4012_group10
+# bt4012_group12
 
 The 12 models used for our BT4012 Group Project:
 * Random Forest
